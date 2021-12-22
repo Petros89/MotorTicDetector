@@ -24,7 +24,7 @@ The pipeline is demonstrated below.
 
 | Losses | Accuracies |
 | --- | --- |
-| ![](./figs/real_loss.png) | ![](./figs/real_accuracy.png) |
+| ![](./figs/real_loss.PNG) | ![](./figs/real_accuracy.PNG) |
 
 - Classification Confusion Matrix.
 
